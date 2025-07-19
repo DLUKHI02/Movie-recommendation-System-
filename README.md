@@ -1,6 +1,6 @@
-# AI Agents: Movie Recommendation System (CSC 575)
+Movie Recommendation System (CSC 575)
 
-Welcome to the final project for CSC 575 – Intelligent Information Retrieval, developed by **Team AI Agents**.
+Welcome to the final project for CSC 575 – Intelligent Information Retrieval
 
 This system offers an interactive movie recommendation engine that combines **search**, **ranking**, **content filtering**, **collaborative filtering (BPR)**, and a smart **hybrid strategy**. It uses **The Movies Dataset** and provides a Gradio-based UI for easy interaction.
 
